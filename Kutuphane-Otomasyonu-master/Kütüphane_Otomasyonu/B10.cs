@@ -10,7 +10,7 @@ namespace Kütüphane_Otomasyonu
 {
     class B10
     {
-        static string baglantiYolu = @"Provider=Microsoft.Jet.OLEDB.4.0;Data Source=C:\Users\bertug\Desktop\C#\UYGULAMALAR\Kütüphane_Otomasyonu\KütüphaneBilgileri.mdb";
+        static string baglantiYolu = @"Provider=Microsoft.ACE.Oledb.12.0;Data Source=KütüphaneBilgileri.mdb";
         static OleDbConnection baglanti = new OleDbConnection(baglantiYolu);
 
         public static bool Admin(string KullaniciAdi, int Sifre)

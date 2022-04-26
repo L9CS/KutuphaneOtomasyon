@@ -13,7 +13,7 @@ namespace Kütüphane_Otomasyonu
 {
     public partial class Form2 : Form
     {
-        static string baglantiYolu = @"Provider=Microsoft.Jet.OLEDB.4.0;Data Source=C:\Users\bertug\Desktop\C#\UYGULAMALAR\Kütüphane_Otomasyonu\KütüphaneBilgileri.mdb";
+        static string baglantiYolu = @"Provider=Microsoft.ACE.Oledb.12.0;Data Source=KütüphaneBilgileri.mdb";
         static OleDbConnection baglanti = new OleDbConnection(baglantiYolu);
 
         public Form2()
@@ -28,7 +28,7 @@ namespace Kütüphane_Otomasyonu
 
         private void hAKKIMIZDAToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("BU PROGRAM BİLGİSAYAR MÜHENDİSLİĞİ 1.SINIF ÖĞRENCİSİ BERTUĞ İLK TARAFINDAN YAPILMIŞTIR...");
+            MessageBox.Show("BU PROGRAM FLORİAN ARSAL BEJTE TARAFINDAN YAPILMIŞTIR.");
         }
 
         private void hESAPMAKİNESİToolStripMenuItem_Click(object sender, EventArgs e)

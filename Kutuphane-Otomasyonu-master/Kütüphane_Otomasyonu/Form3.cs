@@ -18,12 +18,12 @@ namespace Kütüphane_Otomasyonu
             InitializeComponent();
         }
 
-        static string baglantiYolu = @"Provider=Microsoft.Jet.OLEDB.4.0;Data Source=C:\Users\bertug\Desktop\C#\UYGULAMALAR\Kütüphane_Otomasyonu\KütüphaneBilgileri.mdb";
+        static string baglantiYolu = @"Provider=Microsoft.ACE.Oledb.12.0;Data Source=KütüphaneBilgileri.mdb";
         static OleDbConnection baglanti = new OleDbConnection(baglantiYolu);
 
         private void Form3_Load(object sender, EventArgs e)
         {
-
+            kitapListele();
         }
 
         private void çIKIŞToolStripMenuItem_Click(object sender, EventArgs e)

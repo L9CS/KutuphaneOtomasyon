@@ -1,0 +1,16 @@
+C:\Users\hp\Documents\GitHub\KutuphaneOtomasyon\Kutuphane-Otomasyonu-master\Kütüphane_Otomasyonu\bin\x64\Debug\KütüphaneBilgileri.mdb
+C:\Users\hp\Documents\GitHub\KutuphaneOtomasyon\Kutuphane-Otomasyonu-master\Kütüphane_Otomasyonu\bin\x64\Debug\Kütüphane_Otomasyonu.exe.config
+C:\Users\hp\Documents\GitHub\KutuphaneOtomasyon\Kutuphane-Otomasyonu-master\Kütüphane_Otomasyonu\bin\x64\Debug\Kütüphane_Otomasyonu.exe
+C:\Users\hp\Documents\GitHub\KutuphaneOtomasyon\Kutuphane-Otomasyonu-master\Kütüphane_Otomasyonu\bin\x64\Debug\Kütüphane_Otomasyonu.pdb
+C:\Users\hp\Documents\GitHub\KutuphaneOtomasyon\Kutuphane-Otomasyonu-master\Kütüphane_Otomasyonu\obj\x64\Debug\Kütüphane_Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\GitHub\KutuphaneOtomasyon\Kutuphane-Otomasyonu-master\Kütüphane_Otomasyonu\obj\x64\Debug\Kütüphane_Otomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Documents\GitHub\KutuphaneOtomasyon\Kutuphane-Otomasyonu-master\Kütüphane_Otomasyonu\obj\x64\Debug\Kütüphane_Otomasyonu.Form1.resources
+C:\Users\hp\Documents\GitHub\KutuphaneOtomasyon\Kutuphane-Otomasyonu-master\Kütüphane_Otomasyonu\obj\x64\Debug\Kütüphane_Otomasyonu.Form2.resources
+C:\Users\hp\Documents\GitHub\KutuphaneOtomasyon\Kutuphane-Otomasyonu-master\Kütüphane_Otomasyonu\obj\x64\Debug\Kütüphane_Otomasyonu.Form3.resources
+C:\Users\hp\Documents\GitHub\KutuphaneOtomasyon\Kutuphane-Otomasyonu-master\Kütüphane_Otomasyonu\obj\x64\Debug\Kütüphane_Otomasyonu.Form4.resources
+C:\Users\hp\Documents\GitHub\KutuphaneOtomasyon\Kutuphane-Otomasyonu-master\Kütüphane_Otomasyonu\obj\x64\Debug\Kütüphane_Otomasyonu.Form5.resources
+C:\Users\hp\Documents\GitHub\KutuphaneOtomasyon\Kutuphane-Otomasyonu-master\Kütüphane_Otomasyonu\obj\x64\Debug\Kütüphane_Otomasyonu.Properties.Resources.resources
+C:\Users\hp\Documents\GitHub\KutuphaneOtomasyon\Kutuphane-Otomasyonu-master\Kütüphane_Otomasyonu\obj\x64\Debug\Kütüphane_Otomasyonu.csproj.GenerateResource.cache
+C:\Users\hp\Documents\GitHub\KutuphaneOtomasyon\Kutuphane-Otomasyonu-master\Kütüphane_Otomasyonu\obj\x64\Debug\Kütüphane_Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\GitHub\KutuphaneOtomasyon\Kutuphane-Otomasyonu-master\Kütüphane_Otomasyonu\obj\x64\Debug\Kütüphane_Otomasyonu.exe
+C:\Users\hp\Documents\GitHub\KutuphaneOtomasyon\Kutuphane-Otomasyonu-master\Kütüphane_Otomasyonu\obj\x64\Debug\Kütüphane_Otomasyonu.pdb

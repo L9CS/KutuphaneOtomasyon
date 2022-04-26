@@ -17,7 +17,7 @@ namespace Kütüphane_Otomasyonu
         {
             InitializeComponent();
         }
-        static string baglantiYolu = @"Provider=Microsoft.Jet.OLEDB.4.0;Data Source=C:\Users\bertug\Desktop\C#\UYGULAMALAR\Kütüphane_Otomasyonu\KütüphaneBilgileri.mdb";
+        static string baglantiYolu = @"Provider=Microsoft.ACE.Oledb.12.0;Data Source=KütüphaneBilgileri.mdb";
         static OleDbConnection baglanti = new OleDbConnection(baglantiYolu);
 
         public void emanetListele()
@@ -50,7 +50,7 @@ namespace Kütüphane_Otomasyonu
 
         private void Form4_Load(object sender, EventArgs e)
         {
-
+            emanetListele();
         }
 
         private void eMANETKİTAPEKLEToolStripMenuItem_Click(object sender, EventArgs e)
@@ -166,6 +166,11 @@ namespace Kütüphane_Otomasyonu
             adaptor.Fill(DS);
             dataGridView1.DataSource = DS.Tables[0];
             baglanti.Close();
+        }
+
+        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
         }
     }
 }

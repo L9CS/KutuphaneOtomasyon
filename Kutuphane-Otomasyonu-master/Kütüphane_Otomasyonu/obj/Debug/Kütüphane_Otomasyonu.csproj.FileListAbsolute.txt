@@ -44,3 +44,7 @@ C:\Users\hp\Documents\GitHub\KutuphaneOtomasyon\Kutuphane-Otomasyonu-master\Küt
 C:\Users\hp\Documents\GitHub\KutuphaneOtomasyon\Kutuphane-Otomasyonu-master\Kütüphane_Otomasyonu\dbg\Kütüphane_Otomasyonu.exe.config
 C:\Users\hp\Documents\GitHub\KutuphaneOtomasyon\Kutuphane-Otomasyonu-master\Kütüphane_Otomasyonu\dbg\Kütüphane_Otomasyonu.exe
 C:\Users\hp\Documents\GitHub\KutuphaneOtomasyon\Kutuphane-Otomasyonu-master\Kütüphane_Otomasyonu\dbg\Kütüphane_Otomasyonu.pdb
+C:\Users\hp\Documents\GitHub\KutuphaneOtomasyon\Kutuphane-Otomasyonu-master\Debug\Kütüphane_Otomasyonu.exe.config
+C:\Users\hp\Documents\GitHub\KutuphaneOtomasyon\Kutuphane-Otomasyonu-master\Debug\Kütüphane_Otomasyonu.exe
+C:\Users\hp\Documents\GitHub\KutuphaneOtomasyon\Kutuphane-Otomasyonu-master\Debug\Kütüphane_Otomasyonu.pdb
+C:\Users\hp\Documents\GitHub\KutuphaneOtomasyon\Kutuphane-Otomasyonu-master\Debug\KütüphaneBilgileri.mdb
