@@ -167,5 +167,10 @@ namespace Kütüphane_Otomasyonu
             dataGridView1.DataSource = DS.Tables[0];
             baglanti.Close();
         }
+
+        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
     }
 }
